@@ -72,8 +72,8 @@ Crie nomes para:
 1. Qual é o negócio da empresa?
 1. Quem é seu cliente?
 1. Qual a sua contribuição social?
-1. Qual o principal benefício que sua empresa entrega ao cliente
-1. Qual é o diferencial competitivo em relação à concorrência.
+1. Qual o principal benefício que sua empresa entrega ao cliente?
+1. Qual é o diferencial competitivo em relação à concorrência?
 1. Elabore uma frase curta que representa os aspectos definidos de maneira clara e objetiva.
 
 ---
@@ -115,7 +115,7 @@ Defina a VISÃO da sua empresa.
 ## Valores
 ### Ambev (10 princípios)
 1. Sonhamos grande.
-1. Somos donos e donas que costroem o longo prazo.
+1. Somos donos e donas que constroem o longo prazo.
 1. Somos impulsionados por pessoas incríveis e construímos times diversos por meio de inclusão e colaboração.
 1. Lideramos mudanças e inovamos para os nossos consumidores.
 1. Crescemos junto com os nossos clientes.
@@ -136,8 +136,16 @@ Defina os VALORES da sua empresa (ao menos 10).
 # Definição do projeto de Software
 * Resumo (3 linhas)
 * Descrição detalhada do que o software fará, contendo
-    * Como o software funcionará
+    * Como o software funcionará?
     * Quem é o usuário?
     * Qual o diferencial? Por que o software é relevante?
     * Em quais plataformas será lançado (ios, Android, Web)
+    * Identificar e listar as principais funcionalidades do software (com base em esboços de telas).
+
+---
+# Descreve o processo/funcionamento com ou sem o seu software:
+* Sem o seu software
+* Com o seu software
+
+---
 

@@ -88,9 +88,9 @@ https://github.com/fbenghi/AnaliseProjetos2024-1
 ---
 # Combinados
 * Provas
-* A1: 24 a 28/06
-* A2: Trabalho contínuo
-* AF: 08 a 12/07
+    * A1: 24 a 28/06
+    * A2: Trabalho contínuo
+    * AF: 08 a 12/07
 
 ---
 # A2 - Trabalho Contínuo

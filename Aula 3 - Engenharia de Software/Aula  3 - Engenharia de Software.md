@@ -89,7 +89,7 @@ Variação do modelo em Cascata (waterfall)
     * Problemas de design
 
 ---
-## ## Cascata - Aplicação
+## Cascata - Aplicação
 Setores com baixa tolerância a erros ou ciclos de vida mais longo
 * Indústria Pesada
 * Medicina
