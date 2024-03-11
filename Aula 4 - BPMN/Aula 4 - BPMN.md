@@ -193,3 +193,10 @@ Informações complementares
 ---
 ## Exemplo BPMN estendido
 ![width:1000px](_img/image-21.png)
+
+---
+## Atividade prática
+Visando o projeto avaliativo da disciplina:
+* Mapeie o processo geral do negócio, que envolve a funcionalidade principal (core) do sistema, registrando em um diagrama BPMN estendido:
+* Produzir um diagrama AS IS (como é sem o software);
+* Produzir um diagrama TO BE (como ficará com o software).
