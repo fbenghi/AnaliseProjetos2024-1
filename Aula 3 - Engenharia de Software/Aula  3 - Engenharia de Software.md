@@ -16,17 +16,54 @@ fbenghi@up.edu.com
 ---
 
 # Objetivos
-- [ ] Ciclo de Vida
+- [ ] Ciclo de Vida / Processo de Software
 - [ ] Modelo Clássico (Cascata)
 - [ ] Métodos Ágeis
     - [ ] Scrum
     - [ ] Kanban
 
----
+--- 
 # Ciclo de vida de desenvolvimento / processo de software
 * Conjunto de atividades relacionadas que culminam na produção de um produto de software
 * São COMPLEXOS - várias etapas, muitas decisões
 * Não existe um processo ideal e a maior parte das empresas adapta/cria o seu próprio processo
+
+---
+## Processo de Software vs Engenharia de Software
+* **Processo de Software**: estrutura para as atividades, ações e tarefas necessárias para construir software de alta qualidade. 
+
+* **Engenharia de Software**: abrange o processo de software e tecnologias usadas nesse o processo – técnicas e ferramentas automatizadas.
+
+
+---
+## Processo genérico de desenvolvimento de software
+* Comunicação: início do projeto e elaboração de requisitos
+* Planejamento: estimativa de recursos (tempo, orçamento, pessoal) e cronograma
+* Modelagem: análise e design
+* Construção: codificação e testes
+* Implantação: entrega, suporte e feedback
+
+
+---
+## Fluxo de Processo
+* Linear
+![width:1200px](_img/mage.png)
+
+* Iterativo
+
+![width:1200px](_img/mage-1.png)
+
+---
+## Fluxo de Processo
+* Evolucionário
+
+![width:700px](_img/mage-2.png)
+
+---
+## Fluxo de Processo
+* Paralelo
+
+![width:1200px](_img/mage-3.png)
 
 ---
 # Cascata (Waterfall) 

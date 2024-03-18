@@ -57,14 +57,14 @@ Um modelo nada mais é do que uma representação simplificada da realidade.
 * Sequência de atividades realizadas na geração de um resultado.
 
 ---
+# Exemplo
+
+---
 ## Processo de Negócios
 Segundo FLUXO (2016): 
 > um processo de negócio nada mais é do que uma sequência de atividades iniciadas a partir de uma demanda e com o objetivo de entregar algum resultado
 
 Em BPM - Business Process Modeling (Modelagem de Processos de Negócio), um processo é a “sequência de atividades que, quando executadas, **transformam insumos em um resultado com valor agregado**”.
-
----
-# Exemplo
 
 ---
 
@@ -97,12 +97,26 @@ Representam os acontecimentos; possuem causa (trigger) e consequência (result)
 
 ---
 ### BPMN - Elementos
+* Swim Lanes
+    * Pool: a organização em si
+    * Lane: subdivisão de uma pool
+
+![alt text](_img/image-19.png)
+
+
+---
+### BPMN - Elementos
 * Divisores (gateways): 
 Controle de divergência e convergência do fluxo de sequência 
 
 ![alt text](_img/image-15.png)
 
 Pode ser de diversos tipos.
+
+
+---
+## Exemplo
+![alt text](_img/image.png)
 
 ---
 ### BPMN - Elementos
@@ -118,6 +132,26 @@ O fluxo irá seguir por somente uma das saídas em paralelo
 <br>
 ![](_img/exclusivo.gif)
 
+
+
+---
+### BPMN - Elementos
+* Mensagem: 
+Descreve o conteúdo da comunicação entre os participantes
+<br>
+
+![alt text](_img/image-4.png)
+
+![bg right:50% width:500px](_img/image-28.png)
+
+---
+### BPMN - Elementos
+* Objetos de conexão
+    * Fluxo de Sequência: ordem sequencial do fluxo das atividades
+    * Fluxo de Mensagem: fluxo das mensagens entre emissor e receptor
+    * Associações: associar informações e outros artefatos
+
+![bg right:40% width:300px](_img/image-30.png)
 
 ---
 ### BPMN - Elementos
@@ -137,32 +171,6 @@ Conjunto de dados que atendem a todo o processo.
 
 ![bg right w:400px](_img/image-23.png)
 
----
-### BPMN - Elementos
-* Swim Lanes
-    * Pool: a organização em si
-    * Lane: subdivisão de uma pool
-
-![alt text](_img/image-19.png)
-
----
-### BPMN - Elementos
-* Objetos de conexão
-    * Fluxo de Sequência: ordem sequencial do fluxo das atividades
-    * Fluxo de Mensagem: fluxo das mensagens entre emissor e receptor
-    * Associações: associar informações e outros artefatos
-
-![bg right:40% width:300px](_img/image-30.png)
-
----
-### BPMN - Elementos
-* Mensagem: 
-Descreve o conteúdo da comunicação entre os participantes
-<br>
-
-![alt text](_img/image-4.png)
-
-![bg right:50% width:500px](_img/image-28.png)
 
 
 ---
@@ -175,9 +183,6 @@ Informações complementares
 
 ![bg right width:500px](_img/image-27.png)
 
----
-## Exemplo
-![alt text](_img/image.png)
 
 ---
 ## Exemplo
