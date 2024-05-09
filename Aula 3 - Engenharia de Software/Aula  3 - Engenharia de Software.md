@@ -47,23 +47,23 @@ fbenghi@up.edu.com
 ---
 ## Fluxo de Processo
 * Linear
-![width:1200px](_img/mage.png)
+![width:1200px](_img/image.png)
 
 * Iterativo
 
-![width:1200px](_img/mage-1.png)
+![width:1200px](_img/image-1.png)
 
 ---
 ## Fluxo de Processo
 * Evolucionário
 
-![width:700px](_img/mage-2.png)
+![width:700px](_img/image-2.png)
 
 ---
 ## Fluxo de Processo
 * Paralelo
 
-![width:1200px](_img/mage-3.png)
+![width:1200px](_img/image-3.png)
 
 ---
 # Cascata (Waterfall) 
